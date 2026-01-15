@@ -52,7 +52,9 @@
 <p align="center">
   <b>Referral Code for Railway:</b> <code>AqkNn4</code>
 </p>
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk3bmh5c3g2emN1cGkxeWE5aWU5cHV2bjN0M2FuNmVwZzVpczkxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSA5X6x8GQ8hm7y7SC/giphy.gif" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+</p>
 <!-- WhatsApp Channel Call to Action -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m" target="_blank" rel="noopener noreferrer">
