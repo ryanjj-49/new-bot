@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+AUDI+RSB+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;🫴+Crafted+by+sir+bravin+🎁;💯+Fast+💯+Secure+🌺+Reliable+💕" alt="Typing Animation">
 </h1>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk3bmh5c3g2emN1cGkxeWE5aWU5cHV2bjN0M2FuNmVwZzVpczkxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSA5X6x8GQ8hm7y7SC/giphy.gif" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdxbmRteW45NXg5bDJmZmx2a21pY3RrbjM3OGY0a3V6eGNrd2EycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/twXer9ExHdTvwt2vpt/giphy.gif" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
